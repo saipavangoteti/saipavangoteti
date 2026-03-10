@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SAI%20PAVAN&fontSize=60&fontColor=00f5ff&fontAlignY=38&desc=◈%20SYSTEM%20ONLINE%20◈%20AI%20ENGINEER%20◈%20MACHINE%20LEARNING%20◈&descSize=14&descAlignY=58&descColor=a78bfa&animation=twinkling" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=Initializing+Neural+Interface...;Loading+AI+Subsystems...;Building+Intelligent+Systems...;Exploring+the+Future+of+Technology...;All+Systems+Nominal+✓" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Initializing+Neural+Interface...;Loading+AI+Subsystems...;Building+Intelligent+Systems...;Exploring+the+Future+of+Technology...;All+Systems+Nominal+✓" alt="Typing SVG" />
 
 <br/>
 
@@ -15,22 +13,11 @@
 </div>
 
 ---
-
-<div align="center">
 ╔══════════════════════════════════════════════════════════════════╗
-║          ██████╗ ███████╗███████╗██████╗      ██╗ ██████╗       ║
-║          ██╔══██╗██╔════╝██╔════╝██╔══██╗     ██║██╔═══██╗      ║
-║          ██║  ██║█████╗  █████╗  ██████╔╝     ██║██║   ██║      ║
-║          ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██   ██║██║   ██║      ║
-║          ██████╔╝███████╗███████╗██║     ╚█████╔╝╚██████╔╝      ║
-║          ╚═════╝ ╚══════╝╚══════╝╚═╝      ╚════╝  ╚═════╝       ║
-║                                                                  ║
 ║         [ UNIT: GOTETI VEERA VENKATA SAI PAVAN ]                 ║
 ║         [ CLASS: AI DEVELOPER // ML ENGINEER   ]                 ║
 ║         [ STATUS: ONLINE ● BUILDING ● EVOLVING ]                 ║
 ╚══════════════════════════════════════════════════════════════════╝
-</div>
-
 ---
 
 ## `> TRANSMISSION INCOMING...`
@@ -38,22 +25,22 @@
 ```python
 class SaiPavan:
     def __init__(self):
-        self.designation   = "Goteti Veera Venkata Sai Pavan"
-        self.callsign      = "saipavangoteti"
-        self.faction       = "AI Developer · ML Engineer · Automation Architect"
-        self.directives    = [
+        self.designation  = "Goteti Veera Venkata Sai Pavan"
+        self.callsign     = "saipavangoteti"
+        self.faction      = "AI Developer · ML Engineer · Automation Architect"
+        self.directives   = [
             "Build intelligent systems",
             "Automate the mundane",
             "Explore the future of technology",
             "Always learning. Always building."
         ]
-        self.current_ops   = [
+        self.current_ops  = [
             "🤖 AI Voice Tutor — conversational learning AI",
             "🔍 Fraud Detection — ML-powered payment security",
             "🤖 YouTube AI Telegram Bot — smart content assistant",
             "⚙️  n8n Workflow Automation — API orchestration"
         ]
-        self.threat_level  = "MAXIMUM INNOVATION 🚀"
+        self.threat_level = "MAXIMUM INNOVATION 🚀"
 
     def greet(self):
         return "Hello, World — let's build something extraordinary."
