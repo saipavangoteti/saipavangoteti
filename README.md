@@ -134,6 +134,10 @@ THREAT_LEVEL    :  "MAXIMUM INNOVATION 🚀"
 
 [Follow on GitHub](https://github.com/saipavangoteti)
 
+<img src="https://img.shields.io/badge/Gmail-0a0a2e?style=for-the-badge&logo=gmail&logoColor=ea4335" />
+
+[saipavangoteti@gmail.com](mailto:saipavangoteti@gmail.com)
+
 ---
 
 <div align="center">
