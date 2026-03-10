@@ -1,48 +1,46 @@
-<<p align="center">
-<img src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?auto=format&fit=crop&w=1600&q=80" width="100%">
+<p align="center">
+<img src="https://images.unsplash.com/photo-1505060895577-569b3c1a0a0e?auto=format&fit=crop&w=1600&q=80">
 </p><h1 align="center">Sai Pavan</h1><p align="center">
-AI • Machine Learning • Automation
+AI Developer • Machine Learning • Automation
 </p><p align="center">
-Building calm intelligent systems in a fast world
+Building intelligent systems with calm focus
 </p>---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=8BE9FD&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Automation+Systems;Exploring+Future+Technology">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=00F5FF&center=true&vCenter=true&width=520&lines=Artificial+Intelligence;Machine+Learning;Automation+Systems;Exploring+Future+Technology">
 </p>---
 
 About
 
-Exploring technology with a calm and thoughtful approach.
+Developer focused on building intelligent systems and exploring the future of technology.
 
 Interested in:
 
-• Artificial Intelligence
-• Machine Learning
-• Automation
-• Intelligent systems
+Artificial Intelligence
+Machine Learning
+Automation Systems
+Data Driven Applications
 
-Focused on building tools that are simple, useful, and futuristic.
+Always learning. Always building.
 
 ---
 
-Tech
+Tech Stack
 
-<p align="center">Python • Java • JavaScript
-Machine Learning • APIs
-Automation • Data Systems
-
-</p>---
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,docker" /></p><p align="center"><img src="https://skillicons.dev/icons?i=linux,postgres,mysql,fastapi,flask" /></p>---
 
 GitHub Stats
 
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=saipavangoteti&show_icons=true&theme=tokyonight"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipavangoteti&layout=compact&theme=tokyonight"/></p>---
+<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=saipavangoteti&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipavangoteti&layout=compact&theme=tokyonight&hide_border=true"/></p>---
 
-Visitors
+Activity
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saipavangoteti&theme=tokyonight&hide_border=true"/></p>---
 
 <p align="center">https://komarev.com/ghpvc/?username=saipavangoteti&color=blueviolet&style=flat
 
 </p>---
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1600&q=80" width="100%">
-</p> 
+<img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80">
+</p>
