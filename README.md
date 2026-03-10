@@ -105,9 +105,11 @@ THREAT_LEVEL    :  "MAXIMUM INNOVATION 🚀"
 ## ◈ SHIP DIAGNOSTICS ◈
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saipavangoteti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=7dd3fc&icon_color=a78bfa&text_color=c9d1d9&ring_color=7dd3fc" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipavangoteti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saipavangoteti&theme=tokyonight" width="100%"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saipavangoteti&theme=tokyonight" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saipavangoteti&theme=tokyonight" height="165"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=saipavangoteti&theme=tokyonight&hide_border=true&background=0a0a2e&ring=7dd3fc&fire=a78bfa&currStreakLabel=7dd3fc&sideLabels=c9d1d9&dates=666e7a" />
 </div>
