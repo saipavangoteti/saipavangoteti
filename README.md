@@ -1,91 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SAI%20PAVAN&fontSize=60&fontColor=00f5ff&fontAlignY=38&desc=◈%20SYSTEM%20ONLINE%20◈%20AI%20ENGINEER%20◈%20MACHINE%20LEARNING%20◈&descSize=14&descAlignY=58&descColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0a0a2e,100:000000&height=200&section=header&text=⬡%20SAI%20PAVAN%20⬡&fontSize=55&fontColor=ffffff&fontAlignY=50&desc=DEEP%20SPACE%20AI%20COMMANDER%20%7C%20NEURAL%20ARCHITECT%20%7C%20CODE%20WEAVER&descSize=13&descAlignY=68&descColor=7dd3fc&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Initializing+Neural+Interface...;Loading+AI+Subsystems...;Building+Intelligent+Systems...;Exploring+the+Future+of+Technology...;All+Systems+Nominal+✓" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=2500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=⬡+NEURAL+LINK+ESTABLISHED...;⬡+SCANNING+DEEP+SPACE+FREQUENCIES...;⬡+AI+SYSTEMS+FULLY+OPERATIONAL...;⬡+MISSION+STATUS%3A+BUILDING+THE+FUTURE...;⬡+TRANSMISSION+LOCKED+ON+TARGET..." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=saipavangoteti&color=00f5ff&style=for-the-badge&label=PROFILE+SCANS" />
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=saipavangoteti&color=7dd3fc&style=for-the-badge&label=NEURAL+SCANS)
+
+
 &nbsp;
-<img src="https://img.shields.io/github/followers/saipavangoteti?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS" />
+
+
+![Followers](https://img.shields.io/github/followers/saipavangoteti?style=for-the-badge&color=a78bfa&labelColor=0a0a2e&label=CREW+MEMBERS)
+
+
 
 </div>
 
+<br/>
+
 ---
-╔══════════════════════════════════════════════════════════════════╗
-║         [ UNIT: GOTETI VEERA VENKATA SAI PAVAN ]                 ║
-║         [ CLASS: AI DEVELOPER // ML ENGINEER   ]                 ║
-║         [ STATUS: ONLINE ● BUILDING ● EVOLVING ]                 ║
-╚══════════════════════════════════════════════════════════════════╝
+*        .                    *
+    .                 .        .        .
+         .    ★                   .               .
+.               ·          *
+                                        .
+     ✦    G O T E T I   V E E R A   V E N K A T A   S A I   P A V A N    ✦
+.            ════════════════════════════════════════
+                   ◈  AI DEVELOPER  ◈  ML ENGINEER  ◈
+                   ◈  AUTOMATION ARCHITECT  ◈  BUILDER  ◈
+          ════════════════════════════════════════
+.                *          .          *          .
+
+          "He who builds intelligent systems,
+                shapes the future itself."
+.       *                       .                *       .
 ---
 
-## `> TRANSMISSION INCOMING...`
+<div align="center">
 
-```python
-class SaiPavan:
-    def __init__(self):
-        self.designation  = "Goteti Veera Venkata Sai Pavan"
-        self.callsign     = "saipavangoteti"
-        self.faction      = "AI Developer · ML Engineer · Automation Architect"
-        self.directives   = [
-            "Build intelligent systems",
-            "Automate the mundane",
-            "Explore the future of technology",
-            "Always learning. Always building."
-        ]
-        self.current_ops  = [
-            "🤖 AI Voice Tutor — conversational learning AI",
-            "🔍 Fraud Detection — ML-powered payment security",
-            "🤖 YouTube AI Telegram Bot — smart content assistant",
-            "⚙️  n8n Workflow Automation — API orchestration"
-        ]
-        self.threat_level = "MAXIMUM INNOVATION 🚀"
+## ◈ COMMANDER PROFILE ◈
 
-    def greet(self):
-        return "Hello, World — let's build something extraordinary."
-> TECH ARSENAL LOADED
-�
+</div>
 
-⟦ CORE SYSTEMS ⟧
-�
-Load image
-�
-Load image
-�
-Load image
-⟦ AI / ML CORE ⟧
-�
-�
-Load image
-�
-Load image
-⟦ INFRASTRUCTURE ⟧
-�
-Load image
-�
-Load image
-�
-Load image
-�
-Load image
-⟦ DATA SYSTEMS ⟧
-�
-Load image
-�
-Load image
-⟦ AUTOMATION GRID ⟧
-�
-Load image
-�
-Load image
-�
-Load image
+```yaml
+# ══════════════════════════════════════════════════════════════
+#   ██████╗ ██████╗ ███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗
+#  ██╔════╝██╔═══██╗████╗ ████║████╗ ████║██╔══██╗████╗  ██║
+#  ██║     ██║   ██║██╔████╔██║██╔████╔██║███████║██╔██╗ ██║
+#  ██║     ██║   ██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+#  ╚██████╗╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+#   ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+# ══════════════════════════════════════════════════════════════
+
+IDENTITY:
+  designation  : "Goteti Veera Venkata Sai Pavan"
+  callsign     : "saipavangoteti"
+  rank         : "Deep Space AI Commander"
+  origin       : "Earth  ●  Solar System  ●  Milky Way"
+
+MISSION_DIRECTIVES:
+  primary      : "Build intelligent systems that matter"
+  secondary    : "Automate everything automatable"
+  tertiary     : "Explore the infinite frontier of technology"
+  core_belief  : "Always learning. Always building. Always evolving."
+
+ACTIVE_OPERATIONS:
+  ► NEXUS-01   :  "AI Voice Tutor       →  Conversational learning AI"
+  ► NEXUS-02   :  "Fraud Detection      →  ML-powered payment security"
+  ► NEXUS-03   :  "YouTube AI Bot       →  Smart content assistant"
+  ► NEXUS-04   :  "n8n Workflow API     →  API orchestration engine"
+  ► NEXUS-05   :  "GST Invoice Gen      →  Intelligent automation tool"
+  ► NEXUS-06   :  "Registration System  →  Intelligent Java automation"
+
+SYSTEMS_STATUS  :  "ALL SYSTEMS ● ONLINE ● NOMINAL"
+THREAT_LEVEL    :  "⬡⬡⬡⬡⬡ MAXIMUM INNOVATION 🚀"
 �
 
-> SYSTEM DIAGNOSTICS
+◈ WEAPONS SYSTEMS ◈
+— PROGRAMMING CORE —
+�
+�
+�
+— AI / ML ARSENAL —
+�
+�
+�
+— INFRASTRUCTURE GRID —
+�
+�
+�
+�
+— DATA CORE —
+�
+�
+— AUTOMATION DRIVES —
+�
+�
+�
 �
 
+�
+
+◈ SHIP DIAGNOSTICS ◈
 �
 ￼    ￼
 
@@ -93,28 +113,26 @@ Load image
 ￼
 �
 
-> ACTIVITY PULSE
 �
 
+◈ FLIGHT PATH ◈
 �
 ￼
 �
 
 �
 
-> ESTABLISH COMMS
+◈ OPEN COMMS CHANNEL ◈
 [
 �
-Load image
 ](https://linkedin.com/in/saipavangoteti)
 [
 �
-Load image
 ](https://github.com/saipavangoteti)
 �
 
 
-"The future belongs to those who build it."
+·  ★  ·   "The universe is vast. Build something worthy of it."   ·  ★  ·
 �
 
 
