@@ -1,46 +1,135 @@
-<p align="center">
-<img src="https://images.unsplash.com/photo-1505060895577-569b3c1a0a0e?auto=format&fit=crop&w=1600&q=80">
-</p><h1 align="center">Sai Pavan</h1><p align="center">
-AI Developer • Machine Learning • Automation
-</p><p align="center">
-Building intelligent systems with calm focus
-</p>---
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=00F5FF&center=true&vCenter=true&width=520&lines=Artificial+Intelligence;Machine+Learning;Automation+Systems;Exploring+Future+Technology">
-</p>---
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SAI%20PAVAN&fontSize=60&fontColor=00f5ff&fontAlignY=38&desc=◈%20SYSTEM%20ONLINE%20◈%20AI%20ENGINEER%20◈%20MACHINE%20LEARNING%20◈&descSize=14&descAlignY=58&descColor=a78bfa&animation=twinkling" width="100%"/>
 
-About
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=Initializing+Neural+Interface...;Loading+AI+Subsystems...;Building+Intelligent+Systems...;Exploring+the+Future+of+Technology...;All+Systems+Nominal+✓" alt="Typing SVG" />
 
-Developer focused on building intelligent systems and exploring the future of technology.
+<br/>
 
-Interested in:
+<img src="https://komarev.com/ghpvc/?username=saipavangoteti&color=00f5ff&style=for-the-badge&label=PROFILE+SCANS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/saipavangoteti?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS" />
 
-Artificial Intelligence
-Machine Learning
-Automation Systems
-Data Driven Applications
-
-Always learning. Always building.
+</div>
 
 ---
 
-Tech Stack
+<div align="center">
+╔══════════════════════════════════════════════════════════════════╗
+║          ██████╗ ███████╗███████╗██████╗      ██╗ ██████╗       ║
+║          ██╔══██╗██╔════╝██╔════╝██╔══██╗     ██║██╔═══██╗      ║
+║          ██║  ██║█████╗  █████╗  ██████╔╝     ██║██║   ██║      ║
+║          ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██   ██║██║   ██║      ║
+║          ██████╔╝███████╗███████╗██║     ╚█████╔╝╚██████╔╝      ║
+║          ╚═════╝ ╚══════╝╚══════╝╚═╝      ╚════╝  ╚═════╝       ║
+║                                                                  ║
+║         [ UNIT: GOTETI VEERA VENKATA SAI PAVAN ]                 ║
+║         [ CLASS: AI DEVELOPER // ML ENGINEER   ]                 ║
+║         [ STATUS: ONLINE ● BUILDING ● EVOLVING ]                 ║
+╚══════════════════════════════════════════════════════════════════╝
+</div>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,javascript,git,github,docker" /></p><p align="center"><img src="https://skillicons.dev/icons?i=linux,postgres,mysql,fastapi,flask" /></p>---
+---
 
-GitHub Stats
+## `> TRANSMISSION INCOMING...`
 
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=saipavangoteti&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipavangoteti&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+```python
+class SaiPavan:
+    def __init__(self):
+        self.designation   = "Goteti Veera Venkata Sai Pavan"
+        self.callsign      = "saipavangoteti"
+        self.faction       = "AI Developer · ML Engineer · Automation Architect"
+        self.directives    = [
+            "Build intelligent systems",
+            "Automate the mundane",
+            "Explore the future of technology",
+            "Always learning. Always building."
+        ]
+        self.current_ops   = [
+            "🤖 AI Voice Tutor — conversational learning AI",
+            "🔍 Fraud Detection — ML-powered payment security",
+            "🤖 YouTube AI Telegram Bot — smart content assistant",
+            "⚙️  n8n Workflow Automation — API orchestration"
+        ]
+        self.threat_level  = "MAXIMUM INNOVATION 🚀"
 
-Activity
+    def greet(self):
+        return "Hello, World — let's build something extraordinary."
+> TECH ARSENAL LOADED
+�
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saipavangoteti&theme=tokyonight&hide_border=true"/></p>---
+⟦ CORE SYSTEMS ⟧
+�
+Load image
+�
+Load image
+�
+Load image
+⟦ AI / ML CORE ⟧
+�
+�
+Load image
+�
+Load image
+⟦ INFRASTRUCTURE ⟧
+�
+Load image
+�
+Load image
+�
+Load image
+�
+Load image
+⟦ DATA SYSTEMS ⟧
+�
+Load image
+�
+Load image
+⟦ AUTOMATION GRID ⟧
+�
+Load image
+�
+Load image
+�
+Load image
+�
 
-<p align="center">https://komarev.com/ghpvc/?username=saipavangoteti&color=blueviolet&style=flat
+> SYSTEM DIAGNOSTICS
+�
 
-</p>---
+�
+￼    ￼
 
-<p align="center">
-<img src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80">
-</p>
+�
+￼
+�
+
+> ACTIVITY PULSE
+�
+
+�
+￼
+�
+
+�
+
+> ESTABLISH COMMS
+[
+�
+Load image
+](https://linkedin.com/in/saipavangoteti)
+[
+�
+Load image
+](https://github.com/saipavangoteti)
+�
+
+
+"The future belongs to those who build it."
+�
+
+
+�
+￼
